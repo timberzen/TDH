@@ -1,0 +1,8 @@
+{
+  "ProjectName": "TDH",
+  "ProjectGuid": "11c18d11-9d05-43d7-b567-629df2d88073",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{da2f9169-4696-40a5-919b-f73985228cac}",
+  "FrameworkVersion": "0.0.1",
+  "Framework": "MobileWebsite"
+}
